@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/inveert-test/static/css/main.6573aad7.chunk.css",
+    "main.js": "/inveert-test/static/js/main.08d5dddf.chunk.js",
+    "main.js.map": "/inveert-test/static/js/main.08d5dddf.chunk.js.map",
+    "runtime-main.js": "/inveert-test/static/js/runtime-main.f727f94b.js",
+    "runtime-main.js.map": "/inveert-test/static/js/runtime-main.f727f94b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/inveert-test/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0a3cda7b.chunk.js": "/inveert-test/static/js/2.0a3cda7b.chunk.js",
+    "static/js/2.0a3cda7b.chunk.js.map": "/inveert-test/static/js/2.0a3cda7b.chunk.js.map",
+    "index.html": "/inveert-test/index.html",
+    "precache-manifest.d755a94d5444c1b02578668a9b4fff6c.js": "/inveert-test/precache-manifest.d755a94d5444c1b02578668a9b4fff6c.js",
+    "service-worker.js": "/inveert-test/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/inveert-test/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.6573aad7.chunk.css.map": "/inveert-test/static/css/main.6573aad7.chunk.css.map",
+    "static/js/2.0a3cda7b.chunk.js.LICENSE.txt": "/inveert-test/static/js/2.0a3cda7b.chunk.js.LICENSE.txt",
+    "static/media/sadFace.png": "/inveert-test/static/media/sadFace.ed80093f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f727f94b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0a3cda7b.chunk.js",
+    "static/css/main.6573aad7.chunk.css",
+    "static/js/main.08d5dddf.chunk.js"
+  ]
+}
